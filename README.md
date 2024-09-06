@@ -7,6 +7,6 @@ The script returns a single function as per being required. The argument accepts
 
 During the calculation, consider that the resultor is calculated by the ordnance that the said arrays are given in during input.
 
-The function returns a Vector2 value representing the X and Y positions of the point that the resultor magnitude extends to, as well as a number representing the magnitude, and a number representing the angle. 
+The function returns two numbers representing the X and Y positions of the point that the resultor magnitude extends to, as well as a number representing the magnitude, and a number representing the angle (4 numbers total.)
 
 ###### 2024 John Louge
