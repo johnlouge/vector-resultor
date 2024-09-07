@@ -1,14 +1,14 @@
 # vector-resultor
 **Implements a personal vector resultor equation into a Lua function.**
 
-![alt text](https://github.com/johnlouge/vector-resultor/blob/9e6a8c66e7e0af6b131fde65a88ce5f65286c90b/eq2(1).png "Equation")
+![alt text](https://github.com/johnlouge/vector-resultor/blob/02dc4ed5612bef4b87a2fcc3e6e7496c77673782/eq3.png "The Equation")
 
 The script returns a single function as per being required. The argument accepts any number of arrays, which will represent a set of vectors, and wherein all arrays include: the magnitude of the vectors as a number at the first index, per an angle given in degrees as a number for the second index. 
 
 You may imagine approaching the function for use cases given for two examples of visualized vectors laid out;
-![alt text](https://github.com/johnlouge/vector-resultor/blob/main/example1.png?raw=true "Example 1")
+![alt text](https://github.com/johnlouge/vector-resultor/blob/main/example1.png?raw=true "Example #1")
 *(Consider central point "A" above the Origin point "O".)*
-![alt text](https://github.com/johnlouge/vector-resultor/blob/main/example2.png?raw=true "Example 2")
+![alt text](https://github.com/johnlouge/vector-resultor/blob/main/example2.png?raw=true "Example #2")
 
 Given that O represents the origin point for the two examples, and we apply the vectors of the examples to the function, we get the geometrically appropriate resultor vector.
 
